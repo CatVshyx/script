@@ -27,7 +27,7 @@ public class App
         while (true) {
             sendRequests(list1);
             System.out.println("sleep for 5 min");
-            Thread.sleep(300000);
+            Thread.sleep(200000);
         }
     }
 
